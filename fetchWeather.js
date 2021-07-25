@@ -14,3 +14,6 @@ fetch('https://api.openweathermap.org/data/2.5/weather?id=1538317&appid=ec805338
     .catch(function (){
 
     })
+
+    let a = 5;
+    console.log(a);
